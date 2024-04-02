@@ -1,0 +1,17 @@
+{
+  "name": "dalle",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node openai.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open": "^10.0.4",
+    "openai": "^4.28.4"
+  }
+}
